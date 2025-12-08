@@ -35,6 +35,4 @@ print(data)
 print(data["Ajay"])
 
 # Output : 20 
-
-
 ```
