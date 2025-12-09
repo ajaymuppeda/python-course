@@ -1,20 +1,20 @@
 # Data Types 
 
 
-Data types are used to define the type of data that a variable can hold.
-Common data types in Python include:
-Integers (int): Whole numbers without a decimal point.
-Floating-point numbers (float): Numbers with a decimal point.
-Strings (str): Sequence of characters enclosed in quotes.
-Lists (list): Ordered collection of items enclosed in square brackets [].
-Tuples (tuple): Ordered collection of items enclosed in parentheses ().
-Dictionaries (dict): Collection of key-value pairs enclosed in curly braces {}.
-Booleans (bool): Represents either True or False values.
+Data types are used to define the type of data that a variable can hold.   
+Common data types in Python include:    
+Integers (int): Whole numbers without a decimal point.    
+Floating-point numbers (float): Numbers with a decimal point.   
+Strings (str): Sequence of characters enclosed in quotes.   
+Lists (list): Ordered collection of items enclosed in square brackets [].   
+Tuples (tuple): Ordered collection of items enclosed in parentheses ().   
+Dictionaries (dict): Collection of key-value pairs enclosed in curly braces {}.  
+Booleans (bool): Represents either True or False values.   
 
-We Are have some more data types in Python are
+We Are have some more data types in Python are.   
 
 - None
-- Numeric
+- Numeric.   
 - List
 - Tuples
 - Sets
